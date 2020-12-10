@@ -1,4 +1,4 @@
-## Greetings! <img src="https://raw.githubusercontent.com/Deaglegross/Deaglegross/master/resources/wave.gif" width="30px">
+## Greetings! <img src="https://github.com/DeagleGross/DeagleGross/blob/main/resources/wave.gif?raw=true" width="30px">
 
 I am a 4th course HSE computer science bachelor student.  
 Currently implementing [diploma open-source project](https://github.com/DeagleGross/Rplugin)
