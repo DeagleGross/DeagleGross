@@ -1,7 +1,7 @@
 ## Greetings! <img src="https://github.com/DeagleGross/DeagleGross/blob/main/resources/wave.gif?raw=true" width="30px">
 
 I am a 4th course HSE computer science bachelor student.  
-Currently implementing [diploma open-source project](https://github.com/DeagleGross/Rplugin)
+Currently working on [diploma project](https://github.com/DeagleGross/Rplugin)
 
 [![Gmail Badge](https://img.shields.io/badge/-deagle.gross@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:deagle.gross@gmail.com)](mailto:deagle.gross@gmail.com)
 
