@@ -3,11 +3,9 @@
 I am a 4th course HSE computer science bachelor student.  
 Currently working on [diploma project](https://github.com/DeagleGross/Rplugin)
 
-[![Gmail Badge](https://img.shields.io/badge/-deagle.gross@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:deagle.gross@gmail.com)](mailto:deagle.gross@gmail.com)
-
 ## ⚡ Technologies
 
-[![C#](https://img.shields.io/badge/-CSharp-black?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?-b&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c)
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?logo=java)
@@ -20,7 +18,6 @@ Currently working on [diploma project](https://github.com/DeagleGross/Rplugin)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
 ![Azure DevOps](https://img.shields.io/badge/Microsoft%20Azure-232F7E?logo=microsoft-azure)
 
-## Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DeagleGross&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeagleGross&hide=TeX&theme=dark&layout=compact)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/dmitriy-korolev/)  
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/deaglegross) 
+[![Gmail Badge](https://img.shields.io/badge/-deagle.gross@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:deagle.gross@gmail.com)](mailto:deagle.gross@gmail.com)
