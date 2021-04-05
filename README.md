@@ -5,7 +5,7 @@ Currently working on [diploma project](https://github.com/DeagleGross/Rplugin)
 
 ## Technologies
 
-[![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?-b&style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?-b&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c)
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?logo=java)
