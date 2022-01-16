@@ -1,7 +1,9 @@
 ## Greetings! <img src="https://github.com/DeagleGross/DeagleGross/blob/main/resources/wave.gif?raw=true" width="30px">
 
-I am a 4th course HSE computer science bachelor student and C# Developer.
-Currently working on [diploma project](https://github.com/DeagleGross/Rplugin)
+## Some interesting projects to take a look at:
+- [JetBrains Rplugin contribution](https://github.com/JetBrains/Rplugin/pull/3) for R6 library static code analysis support
+- [Rider plugin](https://github.com/DeagleGross/SharpCoachPlugin) used by AliExpress Russia developers
+- [Distributed transactions](https://github.com/DeagleGross/DistributedTransactions) C# library
 
 ## Technologies
 
