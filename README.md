@@ -6,6 +6,10 @@ I am a C# developer at [Microsoft](https://github.com/microsoft) and currently w
 - [JetBrains Rplugin contribution](https://github.com/JetBrains/Rplugin/pull/3) for R6 library static code analysis support
 - [Rider plugin](https://github.com/DeagleGross/SharpCoachPlugin) used by AliExpress Russia developers
 
+## Contributing:
+- [Dapper.AOT](https://github.com/DapperLib/DapperAOT)
+- [Protobuf-net](https://github.com/protobuf-net/protobuf-net)
+
 <a href="https://twitter.com/deaglegross">
   <img align="left" alt="Dima's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
