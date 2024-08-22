@@ -11,7 +11,7 @@ I am a C# developer at [Microsoft](https://github.com/microsoft) and currently w
 - [Protobuf-net](https://github.com/protobuf-net/protobuf-net)
 
 <a href="https://twitter.com/deaglegross">
-  <img align="left" alt="Dima's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="Dima's Twitter" width="20px" src="https://simpleicons.now.sh/x/000" />
 </a>
 <a href="https://www.linkedin.com/in/dmitriy-korolev/">
   <img align="left" alt="Dima's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
